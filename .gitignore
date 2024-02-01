@@ -6,6 +6,7 @@
 history.txt
 **/yarn.lock
 **/next-env.d.ts
+**/.next
 
 
 logs
@@ -14,5 +15,4 @@ npm-debug.log*
 coverage
 *.info
 costs-reports.json
-node_modules
 **/node_modules

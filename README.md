@@ -6,6 +6,8 @@
 
 BitThetix is an open-source proof of concept for a synthetic asset platform on Stacks. It is meant to be used purely for educational purposes, not for production applications.
 
+<img src="BitThetix.png" alt="trading"></img>
+
 ## Video Demo
 Attached is a [video](https://drive.google.com/file/d/1CuS4YZJRbf6yd1W4WvZ419C4GazZant_/view) demonstrating the flow of the BitThetix code, from setting up the developer environment to fully using the Dapp. 
 
@@ -38,7 +40,7 @@ In order to run bitthetix, you need the following software to be installed:
 Once these dependencies are on your computer, clone this repository. Then, navigate into the project root directory.
 
 ```bash
-cd bitthetix
+cd BitThetix
 ```
 
 ### Running the local devnet
@@ -64,7 +66,7 @@ clarinet devnet start
 This process may take some time on the first try. Once your local devnet has started and block 5 is mined, navigate to the scripts folder in a new terminal window:
 
 ```bash
-cd bitthetix/scripts
+cd BitThetix/scripts
 ```
 
 Install dependencies:
@@ -96,7 +98,7 @@ You can double check in your local devnet console that two new transactions have
 Once you have populated on-chain data in your local stacks devnet instance, navigate to the frontend directory:
 
 ```bash
-cd bitthetix/frontend
+cd BitThetix/frontend
 ```
 
 Install dependencies:
