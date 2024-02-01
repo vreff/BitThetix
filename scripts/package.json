@@ -1,0 +1,16 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Scripts for bitthetix",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pythnetwork/client": "^2.19.0",
+    "@stacks/connect": "^7.5.0",
+    "@stacks/network": "^6.10.0",
+    "@stacks/transactions": "^6.11.0"
+  }
+}
