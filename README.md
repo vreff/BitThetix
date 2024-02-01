@@ -7,7 +7,7 @@
 BitThetix is an open-source proof of concept for a synthetic asset platform on Stacks. It is meant to be used purely for educational purposes, not for production applications.
 
 ## Video Demo
-Attached is a video demonstrating the flow of the BitThetix code, from setting up the developer environment to fully using the Dapp. 
+Attached is a [video](https://drive.google.com/file/d/1CuS4YZJRbf6yd1W4WvZ419C4GazZant_/view) demonstrating the flow of the BitThetix code, from setting up the developer environment to fully using the Dapp. 
 
 ## Repository Structure
 This repository is organized into several key directories:
