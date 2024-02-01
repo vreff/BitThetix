@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+body {
+  margin: 0px;
+  background-color: #232c21;
+}
+
+.ant-card-bordered {
+  border-color: #ccc;
+}
+
+.dark-theme .ant-card-bordered {
+  border-color: #303030;
+}
+
+tbody tr:hover {
+  cursor: pointer;
+}
+
+.ant-typography {
+  margin-top: 0;
+}
+
+.ant-tabs-card .ant-tabs-tab {
+  border-radius: 0px !important;
+  min-width: 50%;
+}
+
+.ant-tabs-card .ant-tabs-nav-wrap {
+  width: 100%;
+}
+
+.ant-tabs-card .ant-tabs-nav-list {
+  width: 100%;
+}
+
+.ant-tabs-card .ant-tabs-tab-btn {
+  min-width: 100%;
+}
