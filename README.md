@@ -1,4 +1,7 @@
-<img src="logo.svg" alt="drawing" width="200"></img>
+<p align="center">
+  <img src="logo.svg" alt="drawing" width="200"></img>
+</p>
+
 # BitThetix
 
 BitThetix is an open-source proof of concept for a synthetic asset platform on Stacks. It is meant to be used purely for educational purposes, not for production applications.
